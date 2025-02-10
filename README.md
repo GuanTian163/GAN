@@ -1,6 +1,5 @@
 # GAN for Image Generation
-This work, titled “Generative Adversarial Networks for Sustainable Urban and Ecological Visualization in Digital Media Art,” is published in The Visual Computer
-
+This work, titled “Generative Adversarial Networks for Sustainable Urban and Ecological Visualization in Digital Media Art,” is published in The Visual Computer (https://link.springer.com/journal/371)
 
 ## Overview
 This repository contains a Generative Adversarial Network (GAN) for image generation. The model consists of a conditional generator and a discriminator that leverage **spectral normalization** and **gradient penalty** for enhanced training stability. It is implemented using **PyTorch** and trained on **custom datasets** processed through torchvision transformations.
