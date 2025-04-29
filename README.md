@@ -112,7 +112,7 @@ The training process includes:
 ## Citation Format
 If you use this code, please cite:
 ```plaintext
-Guan Tian, "Generative Adversarial Networks for Sustainable Urban and Ecological Visualization in Digital Media Art," The Visual Computer, 2025.
+Guan Tian, "Generative Adversarial Networks for Sustainable Urban and Ecological Visualization in Digital Media Art ".
 
 
 ## Contact
